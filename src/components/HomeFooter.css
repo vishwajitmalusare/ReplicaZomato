@@ -1,0 +1,29 @@
+.footer-header {
+    display: flex;
+    margin-top: 2%;
+}
+.select-country {
+    width: 14%;
+    margin-left: 60%;
+}
+
+.select-language {
+    width: 9%;
+    margin-left: 3%;
+}
+.li-list {
+    flex: content;
+    font-weight: unsetss;
+    padding: auto;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-bottom: 5%;
+}
+
+.li-sublist {
+    flex: auto;
+    font-weight: unset;
+    font-size: small;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
